@@ -56,7 +56,7 @@ MIDDLEWARE = [
     "django.middleware.common.CommonMiddleware",
     # white noise
     "django.middleware.security.SecurityMiddleware",
-    " whitenoise.middleware.WhiteNoiseMiddleware",
+    "whitenoise.middleware.WhiteNoiseMiddleware",
 ]
 
 ROOT_URLCONF = "project.urls"
