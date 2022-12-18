@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-3)h3^1bayhc7mv@hzcuw5%ajhx*k_x1m0-n)#c$d12a91k8*ml
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['smart-crop-calender.up.railway.app']
 
 
 # Application definition
